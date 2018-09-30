@@ -1,4 +1,9 @@
 
+Useful links:
+https://code.visualstudio.com/docs/editor/versioncontrol
+https://www.hongkiat.com/blog/version-control-git-vs-code/
+
+
 Create a new project
 npm init
 
