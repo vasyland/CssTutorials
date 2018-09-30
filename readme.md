@@ -2,6 +2,8 @@
 Useful links:
 https://code.visualstudio.com/docs/editor/versioncontrol
 https://www.hongkiat.com/blog/version-control-git-vs-code/
+use of vs editor
+https://www.youtube.com/watch?v=bJiIzz8mFMs
 
 
 Create a new project
