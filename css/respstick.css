@@ -87,6 +87,8 @@ nav ul li a {
   nav ul {
     max-height: 0px;
     background: #000;
+    opacity: 0.7;
+    box-shadow: 3px 3px 7px #f71e1e; 
   }
 
   nav.black ul {
